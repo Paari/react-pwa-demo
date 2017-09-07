@@ -12,6 +12,8 @@
   height: 250px;
   padding: 20px;
   color: white;
+  background-size: cover;
+  background-position: center;
 }
 
 .App-intro {
