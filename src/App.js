@@ -6,7 +6,8 @@ import './App.css';
 const chromeImage = 'https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/img/dbc14cbb8ca35312.png';
 const momo = 'https://images.unsplash.com/photo-1496116218417-1a781b1c416c?dpr=1&auto=compress,format&fit=crop&w=767&h=511&q=80&cs=tinysrgb&crop=';
 const cake = 'https://images.unsplash.com/photo-1483908514687-d25c79c15df0?dpr=1&auto=compress,format&fit=crop&w=767&h=511&q=80&cs=tinysrgb&crop=';
-const banner = 'https://images.unsplash.com/photo-1481391145929-5bcf567d5211'
+const banner = 'https://images.unsplash.com/photo-1481391145929-5bcf567d5211';
+
 
 class App extends Component {
   render() {
